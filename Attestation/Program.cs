@@ -1,4 +1,4 @@
-﻿string[] array = { "one", "two", "three", "four", "five"};
+﻿string[] array = { "one", "two", "three", "four", "five", "six", "lol", ":-)", ":)"};
 PrintArray(array);
 Console.WriteLine();
 SortByThree(array);
